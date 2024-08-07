@@ -9,12 +9,13 @@
 
 class Cat {
 private:
-    bool happy = true;
+    bool happy;
 public:
     void makeHappy();
     void makeUnHappy();
     void speak() const;
-
+    Cat();
+    ~Cat();
 };
 
 

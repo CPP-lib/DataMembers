@@ -7,9 +7,18 @@
 
 using namespace std;
 
+Cat::Cat() {
+    cout << "Cat Created" << endl;
+    happy = true;
+}
+Cat::~Cat() {
+    cout << "Cat Destroyed" << endl;
+    happy = false;
+}
+
 void Cat::speak() const {
     if(happy) {
-        cout << "Mow wow" << endl;
+        cout << "Moow wow" << endl;
     } else {
         cout << "hisssssss" << endl;
     }
