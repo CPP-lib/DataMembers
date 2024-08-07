@@ -1,0 +1,3 @@
+/Volumes/KevinsStorage/c++/DataMembers/cmake-build-debug/CMakeFiles/DataMembers.dir
+/Volumes/KevinsStorage/c++/DataMembers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/KevinsStorage/c++/DataMembers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
